@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cotinex.com.pe/sitemap.xml
