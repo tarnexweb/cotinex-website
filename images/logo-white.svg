@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" role="img" aria-label="TARNEX S.A.C.">
-  <title>TARNEX</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 64" role="img" aria-label="COTINEX CONTRATISTAS GENERALES S.A.C.">
+  <title>COTINEX</title>
   <g aria-hidden="true">
     <rect x="2" y="10" width="6" height="36" fill="#12C2B8"/>
     <rect x="46" y="8" width="6" height="38" fill="#12C2B8"/>
@@ -10,6 +10,6 @@
     <rect x="21.2" y="23.4" width="5" height="4.4" fill="#D9F7F4"/>
     <rect x="28.2" y="23.4" width="5" height="4.4" fill="#D9F7F4"/>
   </g>
-  <text x="62" y="40" font-family="Arial Black, Impact, Arial, Helvetica, sans-serif" font-size="32" font-weight="800" letter-spacing="3.2" fill="#FFFFFF">COTINEX</text>
-  <text x="64" y="56" font-family="Arial, Helvetica, sans-serif" font-size="6.8" letter-spacing="2.05" fill="rgba(255,255,255,.55)">S.A.C.</text>
+  <text x="62" y="38" font-family="Arial Black, Impact, Arial, Helvetica, sans-serif" font-size="30" font-weight="800" letter-spacing="2.8" fill="#FFFFFF">COTINEX</text>
+  <text x="64" y="54" font-family="Arial, Helvetica, sans-serif" font-size="5.6" letter-spacing="1.1" fill="rgba(255,255,255,.55)">CONTRATISTAS GENERALES S.A.C.</text>
 </svg>
