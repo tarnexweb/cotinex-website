@@ -228,3 +228,17 @@ input:focus,select:focus,textarea:focus{border-color:var(--teal)}
   .hero__media img{transform:none}
   .js .inview,.reveal{opacity:1;transform:none}
 }
+
+/* Video institucional (Empresa) — mismo marco que .project / .card */
+.video-embed{
+  margin-top:40px;
+  overflow:hidden;
+  border:1px solid var(--line);
+  background:#000;
+}
+.video-embed video{
+  width:100%;
+  height:auto;
+  display:block;
+  background:#000;
+}
